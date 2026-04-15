@@ -49,6 +49,8 @@ score = (0.35 x preco) + (0.25 x bairro) + (0.20 x metragem) + (0.12 x tipo) + (
 |---|---|
 | Repositório GitHub | https://github.com/joaovictorcarneirog/doma-crm |
 | Protótipo Canva | https://www.canva.com/d/OHvV1bGK4BCXdbP |
+| Protótipo Figma | https://www.figma.com/online-whiteboard/create-diagram/2c6ef7d2-1e8f-4f62-8056-b6e10b12145e |
+
 
 ---
 
