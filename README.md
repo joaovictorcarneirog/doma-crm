@@ -54,9 +54,5 @@ score = (0.35 x preco) + (0.25 x bairro) + (0.20 x metragem) + (0.12 x tipo) + (
 
 ---
 
-## Autor
-
-**Doma** | Ciência da Computação
-assessoriadoma.hub@gmail.com
 
 *Avaliação 01 — Introdução à Infraestrutura de TI | 2026*
